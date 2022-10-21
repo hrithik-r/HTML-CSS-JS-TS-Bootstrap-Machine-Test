@@ -1,0 +1,7 @@
+body{
+    background: rgb(18,146,204);
+    background: linear-gradient(180deg, rgba(18,146,204,1) 0%, rgba(187,234,255,1) 100%);
+}
+.table-bordered td, .table-bordered tr{
+    border-color: black !important;
+}
